@@ -1,2 +1,2 @@
-# PetNic
+# NatureHeal
 Proyecto Final Moviles. 
